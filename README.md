@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+🔭 I like code, but also like theory, I enjoy algorithm design and obvious math and statistics.
+
+📫 How to reach me: jrgpoop(at)ciencias.unam.mx or jarriagavq(at)gmail.com
+
+⚡ Fun fact: My favorite algorithm is the BFS (Breadth-first search) because of its simplicity. I also like linear time sorting algorithms.
+
+💬 "All life, it seems is just a dream, and even dreams are dreams."  Calderón de la Barca
 <!--
 **arriagajorge/arriagajorge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
