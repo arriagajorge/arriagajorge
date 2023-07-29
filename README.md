@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🔭 I like code, but also like theory, I enjoy algorithm design and obvious math and statistics.
+🔭 I like code, but also like theory, I enjoy algorithm design, math and statistics.
 
 📫 How to reach me: jrgpoop(at)ciencias.unam.mx or jarriagavq(at)gmail.com
 
