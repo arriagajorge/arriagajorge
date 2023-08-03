@@ -4,7 +4,7 @@
 
 📫 How to contact me: jrgpoop(at)ciencias.unam.mx or jarriagavq(at)gmail.com
 
-⚡ Fun fact: My favorite algorithm is the BFS (Breadth-first search) because of its simplicity. I also like linear time sorting algorithms.
+⚡ Fun fact: My favorite algorithm is BFS (Breadth-first search) because of its simplicity. I also like linear time sorting algorithms.
 
 💬 "All life, it seems is just a dream, and even dreams are dreams."  Calderón de la Barca
 
