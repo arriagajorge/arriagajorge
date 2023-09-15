@@ -2,7 +2,7 @@
 
 🔭 I like code, but also like theory, I enjoy algorithm design, math and statistics.
 
-📫 How to contact me: jrgpoop(at)ciencias.unam.mx or jarriagavq(at)gmail.com
+📫 How to contact me: jrgpoop at ciencias.unam.mx or jarriagavq at gmail.com
 
 ⚡ Fun fact: My favorite algorithm is BFS (Breadth-first search) because of its simplicity. I also like linear time sorting algorithms.
 
